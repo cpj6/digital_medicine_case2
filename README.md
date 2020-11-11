@@ -1,4 +1,4 @@
-# digital_medicine_case2
+# [Digital Medicine] Case Presentation 2 
 
 :warning: **Modify this, modify README**
 
@@ -43,4 +43,4 @@
 - [ ] InceptionV3 Model explanation
 - [ ] EfficientNet Model explanation
 - [ ] Res50 Model explanation
-- [ ] AUC
+- [ ] AUC explanation
