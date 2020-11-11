@@ -17,11 +17,11 @@
 
 ## 1.Brain Layer
 
-![](https://i.imgur.com/uKs2y4f.jpg =500x)
+![](https://i.imgur.com/uKs2y4f.jpg)
 
 
 ## 2.Intracranial Hemorrhage
-![](https://i.imgur.com/TJPzN3v.jpg =1300x)
+![](https://i.imgur.com/TJPzN3v.jpg)
 
 |名稱| Intraparenchymal | Intraventricular | Subarachnoid |Subdural|Epidural|
 |--------| -------- | -------- | -------- | -------- | -------- |
@@ -30,7 +30,7 @@
 |形狀| 圓     | 符合腦室的形狀     | 腦溝和裂縫的路徑     |新月形|長形|
 
 ## 3.Brain CT illustration
-![](https://i.imgur.com/VLJ5wuG.jpg =300x)   ![](https://i.imgur.com/2N4hWU3.jpg =220x)
+![](https://i.imgur.com/VLJ5wuG.jpg)   ![](https://i.imgur.com/2N4hWU3.jpg)
 
 
 ---
