@@ -1,22 +1,6 @@
 # [Digital Medicine] Case Presentation 2 
 
 
----
-
-## TODO
-
-- [x] Windowing
-- [x] Cropping 
-- [ ] PPT
-- [ ] Thoughts
-- [ ] InceptionV3 Model explanation
-- [ ] EfficientNet Model explanation
-- [ ] Res50 Model explanation
-- [x] Background
-- [x] Models and hyperparameter
-- [ ] Confusion matrix
-- [ ] Loss 
-
 
 ## Background
 ### **1. Intracranial Hemorrhage**
@@ -91,19 +75,13 @@ data_transforms2 = transforms.Compose([
 
 ### Models and Results
 **1.  EfficientNetb4**<br>
-(Description Here)<br>
 Confusion matrix:(Test data)
 ![](https://i.imgur.com/ZnOthlK.jpg)
 **2. InceptionV3**
-(Description Here)Very Healthy<br> 
+Result: Very Healthy<br> 
 Confusion matrix:
 ![](https://i.imgur.com/inVHjvN.jpg)
-**3. Res50net** <br>
-(Description Here)<br>
-Confusion matrix:
 
----
-## Thoughts
 
 
 ---
