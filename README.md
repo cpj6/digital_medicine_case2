@@ -78,10 +78,11 @@ data_transforms2 = transforms.Compose([
 Confusion matrix:(Test data)
 ![](https://i.imgur.com/ZnOthlK.jpg)
 **2. InceptionV3**
-Result: Very Healthy<br> 
+Result: (Input size:300)Very Healthy<br> 
 Confusion matrix:
 ![](https://i.imgur.com/inVHjvN.jpg)
-
+(Input size: 512) accurary rises dramatically<br> 
+![](https://imgur.com/DKtlaj0.jpg)
 
 
 ---
